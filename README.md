@@ -8,7 +8,6 @@
 
 
 <!-- ABOUT THE PROJECT --><!-- PROJECT SHIELDS -->
-##
 
 [![MIT License][license-shield]][license-url]
 <br>
