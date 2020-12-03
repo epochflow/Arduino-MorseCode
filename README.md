@@ -9,9 +9,14 @@
 
 <!-- ABOUT THE PROJECT --><!-- PROJECT SHIELDS -->
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
+[![Release][release-shield]][release-url]
 <br>
 <br>
+--- 이하 작성중 ---
+
 ### 아두이노
 * channel.h : network 에서 수신한 데이터를 부호로 변환하고 텍스트로 관리
 * network.h : 서버 처리
@@ -26,12 +31,12 @@ TCP 세그먼트 오류로 생각되어 관련 코드를 작성해봤으나 잘 
 ## 회로도
 
 <p align="center">
-  <img src="sketch.png" alt="Sketch" width="60%" height="60%">
+  <img src="git_resource\circuit diagram.png" alt="Sketch" width="60%" height="60%">
 </p>
 
 ## 결과물
 <p align="center">
-  <img src="result.jpg" alt="Result" width="60%" height="60%">
+  <img src="git_resource\ex.jpg" alt="Result" width="60%" height="60%">
 </p>
 
 <!-- CONTACT -->
