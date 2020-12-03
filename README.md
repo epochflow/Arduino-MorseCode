@@ -65,5 +65,11 @@ EpochFlow 팀 - epochflow@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/epochflow/Arduino-MorseCode?color=Green&style=flat-square
+[contributors-url]: https://github.com/epochflow/Arduino-MorseCode/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/epochflow/Arduino-MorseCode?style=flat-square
+[stars-url]: https://github.com/epochflow/Arduino-MorseCode/stargazers
 [license-shield]: https://img.shields.io/github/license/epochflow/Arduino-MorseCode?style=flat-square
 [license-url]: https://github.com/epochflow/Arduino-MorseCode/blob/master/LICENSE.txt
+[release-shield]: https://img.shields.io/github/v/release/epochflow/Arduino-MorseCode?style=flat-square
+[release-url]: https://github.com/epochflow/Arduino-MorseCode/releases
